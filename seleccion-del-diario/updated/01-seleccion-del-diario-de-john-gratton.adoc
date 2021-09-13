@@ -1475,7 +1475,7 @@ Esto es la obra del Señor y es maravillosa a nuestros ojos.
 [.asterism]
 '''
 
-Después de encontrar finalmente lo que había buscado por tanto tiempo,
+__Después de encontrar finalmente lo que había buscado por tanto tiempo,
 John Gratton continuó en fiel sumisión a Su Maestro,
 y se convirtió en un notable ministro en la temprana Sociedad de Amigos.
 Viajó a menudo al servicio del evangelio, declarando por toda Inglaterra, Escocia,
@@ -1494,4 +1494,4 @@ a la edad de sesenta y nueve años. Unas de sus últimas palabras fueron:
 "`Qué el Señor bendiga a Su pueblo, prospere Su verdad entre ellos,
 y les permita vivir en amor unos con otros.`"
 No mucho después, debilitándose muy rápido, dijo: "`Señor,
-libremente te encomiendo mi alma y mi espíritu.`"
+libremente te encomiendo mi alma y mi espíritu.`"__
